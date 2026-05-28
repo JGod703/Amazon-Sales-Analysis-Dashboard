@@ -41,7 +41,7 @@ El dashboard fue desarrollado en Power BI e incluye:
 - Top productos con mayor número de opiniones
 - Distribución de productos por categoría
 
-![alt text](<Dashboard Analisis Amazon-1.png>)
+![alt text](<images/Dashboard Analisis Amazon.png>)
 
 ## Insights encontrados
 - Electronics concentra la mayor cantidad de productos
